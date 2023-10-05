@@ -1,7 +1,7 @@
 <h1>Hello, I'm Emily West!</h1>
 
 <h2>🚀 About Me </h2>
-<b> I am graduating from Western Oregon University with a BS in Computer Science in June 2023, where I also played 4 years of collegiate volleyball. I will then be pursuing a Masters of Science in Computer Science with a concentration in Artifical Intelligence, Machine Learning, and Data Science from Oregon State University starting fall 2023. </b>
+<b> I am a graduate student at Oregon State University pursuing a Master of Science in Computer Science with a concentration in Artificial Intelligence. I graduated from Western Oregon University with a bachelor’s degree in computer science in Spring of 2023. While at WOU, I was also a 4-year DII volleyball player for the wolves. My programming background is mainly in C# and Python from WOU, while I am developing my C++ skills at Oregon State. I am highly interested in creating diverse and inclusive programs, especially when it comes to Artificial Intelligence.  </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
