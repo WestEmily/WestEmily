@@ -8,7 +8,7 @@
 - <b>Software Engineering Team Project</b>
   - [Social Watch Party Application (.NET)](https://github.com/Ewest19/SeniorProjectCaimanLizard)
 - <b>Mobile Software Development Team Project</b>
-  - [The Local Event Finder (Android, Kotlin)](https://github.com/WestEmily/final-project-the-local-event-finder-g13)
+  - [The Local Event Finder (Android, Kotlin)](https://github.com/WestEmily/local-event-finder)
 - <b>Final Project for Data Visualization</b>
   - [Dashboard for Youth Risky Behavior (Python)](https://github.com/Ewest19/Data-Visualization)
 - <b>Final Project for Applied Discrete Mathematics</b>
