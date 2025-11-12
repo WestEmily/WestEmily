@@ -1,7 +1,7 @@
 <h1>Hello, I'm Emily West!</h1>
 
 <h2>🚀 About Me </h2>
-<b> I am a graduate student at Oregon State University pursuing a Master of Engineering in Computer Science, with a planned graduation date of spring 2025. I graduated from Western Oregon University with a bachelor’s degree in computer science in Spring of 2023. While at WOU, I was also a 4-year DII volleyball player for the wolves. Welcome to my GitHub portfolio, where I showcase my projects and contributions. </b>
+<b> I am a recent graduate with a Master of Engineering in Computer Science from Oregon State University. I graduated from Western Oregon University with a bachelor’s degree in computer science in Spring of 2023. While at WOU, I was also a 4-year DII volleyball player for the wolves. Welcome to my GitHub portfolio, where I showcase my projects and contributions. </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
